@@ -6,7 +6,7 @@ import { FaGithub } from 'react-icons/fa'; // GitHub icon
 
 const Navbar = () => {
   const menuItems = [
-    { label: 'Home', to: '/' },
+    { label: 'Home', to: '/portfolio' },
     { label: 'About Me', to: '/about' },
     { label: 'Services', to: '/services' },
     { label: 'Projects', to: '/project' },
